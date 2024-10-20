@@ -1,16 +1,16 @@
 Movie Recommendation System 🎥
-Project Overview 📜
+Project Overview: 📜
 The Movie Recommendation System is a content-based recommendation engine built to suggest movies based on features like genres, cast, keywords, and more. It leverages natural language processing techniques and similarity measures to make personalized movie recommendations.
 
-Features ✨
+Features : ✨
 Content-Based Filtering: Recommends movies based on the similarity of features such as genres, keywords, cast, and directors.
 Text Vectorization: Utilizes TF-IDF (Term Frequency-Inverse Document Frequency) to transform text-based movie features into numerical representations.
 Similarity Measurement: Employs Cosine Similarity to measure the closeness between movies and suggest similar options.
 Scalable Dataset: Works on a dataset of over 4800 movies, ensuring a wide range of recommendations.
-Dataset 📊
+Dataset : 📊
 The system is based on a dataset containing:
 
-Movies: 4803 rows and 24 columns
+Movies: 4803 rows and 24 columns :
 Important Features: genres, keywords, tagline, cast, and director
 Other Columns: budget, homepage, original language, release date, etc.
 This dataset includes movies with a variety of attributes, making it ideal for a recommendation system.
